@@ -1,0 +1,17 @@
+{
+  "Business User": {
+    "UserId": "",
+    "Username": "AutoAdmin1",
+    "Password": "Outlook@2010!",
+    "FirstName": "Auto",
+    "LastName": "john",
+    "CompanyCode": "57595",
+    "CompanyName": "Automation Test",
+    "Description": "Sample user description",
+    "EmployeeId": "",
+    "EmployeeCode": "",
+    "ClientID": "eb5ca5bb-c65c-4d2f-91a1-e004b05770a7",
+    "ClientSecret": "W0KzX6rafRnXGSJ6thHTLCvI3ZMTz8R9QsfHXM6ZBAYB0yONGt2fAF6ghdOTqyaA",
+    "Scope": "openid profile email company_api_access core_api_access costing_api_access hris_api_access leave_api_access mfa_api_access notification_api_access onboarding_api_access paycomponent_api_access payslip_api_access permission_api_access report_api_access self_service_api_access task_api_access timesheet_api_access user_api_access workflow_api_access"
+  }
+}

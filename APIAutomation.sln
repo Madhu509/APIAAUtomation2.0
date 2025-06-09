@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIAutomation", "APIAutomation\APIAutomation.csproj", "{603A4F52-679D-41BD-947D-C2D79B1FE44A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		QA|Any CPU = QA|Any CPU
+		Release|Any CPU = Release|Any CPU
+		UAT|Any CPU = UAT|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{603A4F52-679D-41BD-947D-C2D79B1FE44A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603A4F52-679D-41BD-947D-C2D79B1FE44A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603A4F52-679D-41BD-947D-C2D79B1FE44A}.QA|Any CPU.ActiveCfg = Debug|Any CPU
+		{603A4F52-679D-41BD-947D-C2D79B1FE44A}.QA|Any CPU.Build.0 = Debug|Any CPU
+		{603A4F52-679D-41BD-947D-C2D79B1FE44A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603A4F52-679D-41BD-947D-C2D79B1FE44A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{603A4F52-679D-41BD-947D-C2D79B1FE44A}.UAT|Any CPU.ActiveCfg = Debug|Any CPU
+		{603A4F52-679D-41BD-947D-C2D79B1FE44A}.UAT|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD6C66A6-D3CD-4DBB-8C25-5C580F67E718}
+	EndGlobalSection
+EndGlobal
